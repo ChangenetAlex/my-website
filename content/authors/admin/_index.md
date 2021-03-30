@@ -28,11 +28,8 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- display:
-    header: true
-  icon: twitter
+- icon: twitter
   icon_pack: fab
-  label: Follow me on Twitter
   link: https://twitter.com/ChangenetAlex
 - icon: github
   icon_pack: fab
@@ -46,7 +43,6 @@ social:
 superuser: true
 title: Alexandre Changenet
 ---
-
 I am interested in forest ecology and evolution, especially in questions related to the populations and species responses to climate change. To tackle these questions I am keen to use tools involving modelling, statistics and simulations. 
 
 I am currently finsihing my Ph.D in Biogeco, INRAE Bordeaux. Based on the national forest inventories of 6 countries, I develop species-specific mortality and recruitment models on twenty ecologically and economically important tree species in European forests. I am investigating how drought, competition and stand composition interact and affect recruitment and mortality along the latitudinal gradient and more specifically in climatically marginal parts of the range. 
